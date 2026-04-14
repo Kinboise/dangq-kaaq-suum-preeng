@@ -4,7 +4,7 @@
 schema:
   schema_id: OC_nulll_suumpreeng
   name: 上古三拼（Nulll）
-  version: "2026.03.17"
+  version: "2026.04.14"
   author:
     - "Kinboise <kinboise@guc1010.top>"
   description: | 
@@ -78,7 +78,7 @@ speller:
     - xform/^d/D/
     - xform/^gw/-G/
     - xform/^g/G/
-    - xform/^hj/-H/
+    - xform/^jh/-H/
     - xform/^jh/-J/
     - xform/^h/H/
     - xform/^j/J/
@@ -252,7 +252,7 @@ translator:
     - "xform/(^|[ '])-S/$1sj/"
     - "xform/(^|[ '])-G/$1gw/"
     - "xform/(^|[ '])H/$1h/"
-    - "xform/(^|[ '])-H/$1hj/"
+    - "xform/(^|[ '])-H/$1jh/"
     - "xform/(^|[ '])J/$1j/"
     - "xform/(^|[ '])-J/$1j̊/"
     - "xform/(^|[ '])-K/$1kj/"
