@@ -1,6 +1,6 @@
 ---
 name: paaq-dzyh
-version: "2026.04.23"
+version: "2026.05.21"
 sort: by_weight
 ...
 啊	q'aj*ʔˤaj‼️阿
@@ -120,7 +120,6 @@ sort: by_weight
 蓽	pit*pit❗️畢
 嗶	pit*pit❗️畢
 荸	b'ut*bˤut‼️勃
-襞	pek*pek❗️辟
 坒	bih*bih❗️比
 坒	bik*bik❗️
 佖	bik*bik❗️泌
@@ -1177,7 +1176,7 @@ sort: by_weight
 浬	ryq*rəʔ‼️里
 凓	rik*rik❗️栗
 㰀	r'yj*rˤəj❗️黎
-倆	rangq*raŋʔ‼️兩
+倆	C.rangq*C.raŋʔ‼️兩
 臉	kamq*kamʔ❗️檢
 鏈	ran*ran❗️連
 鐮	rem*rem❗️廉
@@ -1193,7 +1192,7 @@ sort: by_weight
 瑓	C.r'enh*C.rˤenh‼️練
 鰊	C.r'enh*C.rˤenh❗️練
 晾	C.rangh*C.raŋh‼️
-䓣	rangq*raŋʔ‼️兩
+䓣	C.rangq*C.raŋʔ‼️兩
 綡	C.rang*C.raŋ❗️涼
 墚	rang*raŋ‼️
 撩	r'ew*rˤew❗️遼
@@ -1240,17 +1239,17 @@ sort: by_weight
 柃	rengq*reŋʔ❗️
 昤	r'ing*rˤiŋ❗️鈴
 澪	r'ing*rˤiŋ❗️零
-琉	ru*ru❗️流
-硫	ru*ru❗️流
+琉	C.ru*C.ru❗️流
+硫	C.ru*C.ru❗️流
 綹	C.ruq*C.ruʔ❗️
-遛	ru*ru❗️留
-熘	ru*ru‼️留
+遛	C.ru*C.ru❗️留
+熘	C.ru*C.ru‼️留
 鎦	C.ru*C.ru❗️劉
-鎏	ru*ru‼️流
+鎏	C.ru*C.ru‼️流
 珋	ruq*ruʔ❗️柳
-鋶	ru*ru‼️流
-飀	ru*ru❗️留
-瑬	ru*ru‼️流
+鋶	C.ru*C.ru‼️流
+飀	C.ru*C.ru❗️留
+瑬	C.ru*C.ru‼️流
 攏	r'ongq*rˤoŋʔ❗️籠
 朧	r'ong*rˤoŋ❗️蘢
 窿	rung*ruŋ❗️隆
@@ -1634,8 +1633,7 @@ sort: by_weight
 鵮	kh'rym*kʰˤrəm❗️陷
 圲	tsh'ing*tsʰˤiŋ‼️千
 杄	tsh'ing*tsʰˤiŋ❗️千
-肷	kh'emq*kʰˤemʔ‼️膁歉
-膁	kh'emq*kʰˤemʔ❗️歉
+肷	kh'emq*kʰˤemʔ‼️膁
 靬	kan*kan❗️干
 靬	kh'an*kʰˤan❗️刊
 靬	k'ryn*kˤrən❗️
@@ -1934,7 +1932,6 @@ sort: by_weight
 啕	l'u*lˤu❗️陶
 忑	lh'yk*l̥ˤək‼️忒
 鋱	lh'yk*l̥ˤək‼️忒
-疼	d'ung*dˤuŋ❗️冬
 藤	l'yng*lˤəŋ❗️滕
 熥	lh'ong*l̥ˤoŋ‼️通
 屜	lh'e*l̥ˤes❗️𡲕曳
@@ -2030,8 +2027,8 @@ sort: by_weight
 庹	th'ak*tʰˤak‼️度
 跎	l'aj*lˤaj❗️駝
 侂	th'ak*tʰˤak❗️託
-挖	qw'rit*ʔwˤit❗️穵
-穵	qw'rit*ʔwˤit❗️
+挖	qw'rit*ʔwˤrit❗️穵
+穵	qw'rit*ʔwˤrit❗️
 窪	qw're*ʔwˤre❗️洼
 佤	ngw'rajq*ŋwˤrajʔ‼️瓦
 畖	qw'ra*ʔwˤra❗️窊
@@ -2162,7 +2159,6 @@ sort: by_weight
 葙	sang*saŋ❗️相
 瓖	nhang*n̥aŋ❗️襄
 哮	h'ruh*hˤruh❗️孝
-驍	k'ew*kˤew❗️澆
 筱	sl'iwq*slˤiwʔ❗️篠
 魈	saw*saw❗️消
 涍	h'ru*hˤru❗️孝
@@ -2241,14 +2237,13 @@ sort: by_weight
 岈	h'ra*hˤra❗️牙
 玡	ng'ra*ŋˤra‼️牙
 埡	q'rah*ʔˤrah‼️亞
-婭	q'rah*ʔˤrah❗️亞
 蚜	ng'ra*ŋˤra‼️牙
 氬	q'rah*ʔˤrah‼️亞
 吖	q'ra*ʔˤra‼️丫鴉
 砑	ng'rah*ŋˤrah❗️訝
 椏	q'ajq*ʔˤajʔ❗️
 椏	q'rah*ʔˤrah❗️亞
-堐	ng're*ŋˤre❗️厓
+堐	ngre*ŋre❗️厓
 猰	q'ret*ʔˤret❗️䝟
 焰	lamh*lamh❗️燄
 妍	ng'en*ŋˤen❗️研
@@ -2277,7 +2272,7 @@ sort: by_weight
 蛘	jang*jaŋ❗️羊
 蛘	jangq*jaŋʔ❗️養
 咉	q'ang*ʔˤaŋ❗️鴦
-咉	q'angq*ʔˤaŋʔ❗️泱
+咉	q'angq*ʔˤaŋʔ❗️坱
 垟	jang*jaŋ‼️羊
 吆	q'iw*ʔˤiw❗️幺
 嶢	ng'ew*ŋˤew❗️堯
@@ -2446,7 +2441,6 @@ sort: by_weight
 霅	tap*tap❗️
 霅	g'rap*gˤrap❗️
 霅	d'rap*dˤrap❗️
-齇	ts'ra*tsˤra‼️樝
 寨	dz'ras*dzˤras❗️
 寨	s'yk*sˤək❗️塞
 砦	dz'ras*dzˤras❗️
@@ -2569,7 +2563,7 @@ sort: by_weight
 唑	dz'ojh*dzˤojh‼️坐
 岞	ts'ak*tsˤak‼️作
 杰	grat*grat❗️傑
-捱	ng're*ŋˤre‼️厓
+捱	ngre*ŋre‼️厓
 磺	gw'ang*gwˤaŋ‼️黃
 紮	tsret*tsret❗️札
 㞎	p'raq*pˤraʔ‼️把
@@ -2683,7 +2677,7 @@ sort: by_weight
 咲	lhawh*l̥awh❗️笑
 舺	g'rap*gˤrap‼️匣
 曚	m'ongq*mˤoŋʔ❗️蒙
-瑠	ru*ru❗️留
+瑠	C.ru*C.ru❗️留
 宀	men*men❗️
 皝	gw'angq*gwˤaŋʔ❗️晃
 嬢	nrang*nraŋ‼️孃
@@ -2727,6 +2721,10 @@ sort: by_weight
 睒	lh'amh*l̥ˤamh❗️舕淡
 迍	trun*trun❗️窀
 鯮	ts'ung*tsˤuŋ‼️宗
+鬆	song*soŋ❗️松
+梌	l'a*lˤa❗️途
+梌	lh'a*l̥ˤa❗️㻌
+梌	l'ra*lˤra❗️茶
 坔	l'ajh*lˤajh‼️地
 㨃	t'ujq*tˤujʔ‼️敦
 㞞	sjong*sjoŋ‼️
