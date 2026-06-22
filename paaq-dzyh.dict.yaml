@@ -1,6 +1,6 @@
 ---
 name: paaq-dzyh
-version: "2026.05.21"
+version: "2026.06.22"
 sort: by_weight
 ...
 啊	q'aj*ʔˤaj‼️阿
@@ -319,6 +319,8 @@ sort: by_weight
 牎	tshrong*tsʰroŋ❗️窗
 窓	tshrong*tsʰroŋ❗️窗
 噇	d'rong*dˤroŋ❗️橦
+鎚	t'uj*tˤuj❗️追
+鎚	druj*druj❗️槌
 蝽	thun*tʰun❗️春
 堾	thun*tʰun‼️春
 踳	thunq*tʰunʔ❗️舛
@@ -1159,7 +1161,6 @@ sort: by_weight
 嚦	r'ek*rˤek❗️歷
 癧	r'ek*rˤek❗️歷
 猁	ris*ris‼️利
-娌	ryq*rəʔ❗️里
 唳	r'ys*rˤəs❗️戾
 喱	ry*rə❗️厘
 鋰	ryq*rəʔ‼️里
@@ -1195,8 +1196,6 @@ sort: by_weight
 䓣	C.rangq*C.raŋʔ‼️兩
 綡	C.rang*C.raŋ❗️涼
 墚	rang*raŋ‼️
-撩	r'ew*rˤew❗️遼
-撩	r'ewq*rˤewʔ❗️繚
 嘹	r'ew*rˤew❗️遼
 嘹	r'ewh*rˤewh❗️
 尥	b'rew*bˤrew❗️豹
@@ -1547,13 +1546,11 @@ sort: by_weight
 琵	bi*bi❗️毗
 睥	ph'eh*pʰˤeh❗️
 噼	phek*pʰek❗️辟
-癖	phek*pʰek❗️辟
 苉	phik*pʰik‼️匹
 狉	ph'y*pʰˤə‼️胚
 鸊	phek*pʰek‼️辟
 騙	phenh*pʰenh❗️偏
 犏	phen*pʰen‼️偏
-蹁	b'en*bˤen❗️楄
 𡎚	phenq*pʰenʔ‼️
 㛹	ben*ben❗️便
 票	phewh*pʰewh❗️剽
@@ -1730,7 +1727,6 @@ sort: by_weight
 潵	s'at*sˤat‼️
 潵	s'anh*sˤanh‼️散
 噻	s'yk*sˤək‼️塞
-鰓	s'y*sˤə❗️腮
 饊	s'anq*sˤanʔ❗️散
 嗓	s'angq*sˤaŋʔ‼️桑
 搡	s'angq*sˤaŋʔ‼️桑
@@ -1819,7 +1815,7 @@ sort: by_weight
 閂	sron*sron‼️
 驦	srang*sraŋ❗️霜
 礵	srang*sraŋ‼️霜
-瞬	lhunh*l̥unh❗️舜
+瞬	stunh*stunh❗️舜
 搠	nghrak*ŋ̊rak‼️朔
 蒴	nghrak*ŋ̊rak❗️朔
 槊	nghrak*ŋ̊rak❗️朔
@@ -2516,7 +2512,6 @@ sort: by_weight
 㑳	dz'roh*dzˤroh❗️皺
 㑳	nrap*nrap❗️偛插
 蛀	toh*toh❗️注
-囑	tok*tok❗️屬
 矚	tok*tok❗️屬
 炷	toq*toʔ❗️主
 炷	toh*toh❗️注
