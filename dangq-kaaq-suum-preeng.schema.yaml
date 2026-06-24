@@ -4,7 +4,7 @@
 schema:
   schema_id: dangq-kaaq-suum-preeng
   name: 上古三拼（臤徘斯）
-  version: "2026.04.21"
+  version: "2026.06.24"
   author:
     - "Kinboise <kinboise@guc1010.top>"
   description: | 
@@ -53,6 +53,8 @@ speller:
   algebra:
     - xform/(\*).+$// #將輸入碼範圍限定在音標前
     - xform/yps/ywh/
+    - derive/^([kqg])(['r]*)u/$1w$2u
+    - derive/^kh(['r]*)u/khw$1u
     - xform/^qw/-Q/
     - xform/^q/Q/
     - xform/^ngw/-W/
@@ -97,6 +99,8 @@ speller:
     - xform/^m/M/
     - xform/^C\.r'/R'r/
     - xform/^C\.r/Rr/
+    - derive/u([qh]?)$/uw$1/
+    - derive/i([qh]?)$/ij$1/
     - xform/ngq$/W/
     - xform/mq$/E/
     - xform/nq$/R/
@@ -148,6 +152,9 @@ speller:
     - xform/'u/J/
     - xform/u/U/
     - derive/^-(.)/$1B/
+    - derive/^-E/WP/
+    - derive/^-O/XP/
+    - derive/^-B/MP/
     - xlit/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/
     - xform/-q/Q/
     - xform/-w/W/
@@ -173,6 +180,9 @@ translator:
   spelling_hints: 8
   enable_completion: true
   preedit_format:
+    - "xform/(^|[ '])wp/$1eb/"
+    - "xform/(^|[ '])mp/$1bb/"
+    - "xform/(^|[ '])xp/$1ob/"
     - "xform/(^|[ '])(.)b/$1-$2/"
     - xform/Q/-Q/
     - xform/W/-W/
@@ -285,6 +295,9 @@ translator:
     - "xform/(^|[ '])B/$1b/"
     - "xform/(^|[ '])N/$1n/"
     - "xform/(^|[ '])M/$1m/"
+    - xform/uw/u/
+    - xform/ij/i/
+    - "xform/w([ˤr]*)u/$1u/"
     - xform/rr/C.r/
     - xform/rˤr/C.rˤ/
     - xform/əwh/əps/
@@ -317,7 +330,7 @@ key_binder:
   import_preset: default
 
 recognizer:
-  import_preset: default
+  # import_preset: default
   patterns:
-    reverse_lookup: "`[a-z]*'?$"
+    reverse_lookup: "`[A-Za-z]*'?$"
     punct: '^/([0-9]0?|[A-Za-z]+)$'
