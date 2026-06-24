@@ -12,6 +12,11 @@
 
 <img width="592" height="750" alt="image" src="https://github.com/user-attachments/assets/d326e954-7d39-4d15-a25b-8ed2bf82fa77" />
 
+2026.06.23 新增容錯及替代打法：
+- `wp`, `mp`, `xp` = ŋ̊, m̥, kʰw
+- ʔ, k, kʰ, g 配 u 韻腹時，亦可作相應的脣化聲母（kwu=ku）
+- uw=u, ij=i
+
 例：
 | 字 | 音 | 碼 |
 |:-|:-|:-|
@@ -20,6 +25,8 @@
 | 的 | tˤewk > `t ˤe wk` | `t d o` |
 | 漢 | n̥ˤar > `n̥ ˤa r` | `N a g` 或 `nb a g` |
 | 臨 | C.rum > `r ru m` | `r n d` |
+| 所 | ŋ̊raʔ > `ŋ̊ ra ʔ` | `E w q` 或 `eb w q` 或 `wp w q` |
+| 告 | kˤuh > `k/kw ˤu h/wh` | `k j z` 或 `o j z` 或 `k j m` 或 `o j m` |
 
 > 以下爲上游倉庫 README。
 
