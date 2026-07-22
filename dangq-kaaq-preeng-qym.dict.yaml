@@ -1,0 +1,11 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: dangq-kaaq-preeng-qym
+version: "2026.04.21"
+use_preset_vocabulary: true
+import_tables:
+  - OC_nulll   # Nulll整理的最小上古漢語字表
+  - paaq-dzyh  # 臤徘斯整理的補充字表
+...
