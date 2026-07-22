@@ -1,6 +1,6 @@
 ---
 name: paaq-dzyh
-version: "2026.06.22"
+version: "2026.07.22"
 sort: by_weight
 ...
 啊	q'aj*ʔˤaj‼️阿
@@ -218,7 +218,7 @@ sort: by_weight
 杈	tsh'reh*tsʰˤreh❗️
 衩	tsh'reh*tsʰˤreh❗️
 奼	th'raq*tʰˤraʔ❗️
-奼	t'rah*tˤrah❗️吒
+奼	t'rah*tˤrah❗️
 奼	t'ah*tˤah❗️
 搽	l'ra*lˤra‼️茶
 嵖	dz'ra*dzˤra‼️苴
@@ -401,7 +401,6 @@ sort: by_weight
 氹	d'amq*dˤamʔ‼️
 壋	t'angh*tˤaŋh‼️當
 菪	l'angh*lˤaŋh❗️宕
-簹	t'ang*tˤaŋ❗️當
 欓	t'ang*tˤaŋ❗️當
 欓	t'angq*tˤaŋʔ❗️擋
 氘	t'aw*tˤaw‼️刀
@@ -467,8 +466,6 @@ sort: by_weight
 啶	d'engh*dˤeŋh‼️定
 腚	d'engh*dˤeŋh‼️定
 碇	d'engh*dˤeŋh‼️定
-錠	d'engh*dˤeŋh❗️定
-錠	t'engh*tˤeŋh❗️定
 耵	t'engq*tˤeŋʔ❗️頂
 萣	d'engh*dˤeŋh❗️定
 丟	tiw*tiw‼️
@@ -860,7 +857,6 @@ sort: by_weight
 鉀	k'ap*kˤap❗️
 岬	k'rap*kˤrap‼️甲
 迦	kraj*kraj❗️加
-胛	k'rap*kˤrap❗️甲
 餄	k'ryp*kˤrəp❗️袷
 鉿	k'yp*kˤəp❗️鴿
 笳	kraj*kraj❗️加
@@ -1081,7 +1077,6 @@ sort: by_weight
 旯	r'ak*rˤak‼️
 鞡	r'yp*rˤəp‼️拉搚
 邋	r'ap*rˤap❗️臘
-鑞	r'ap*rˤap❗️臘
 砬	ryp*rəp❗️立
 蝲	r'at*rˤat❗️剌
 鯻	r'at*rˤat‼️剌
@@ -2365,9 +2360,9 @@ sort: by_weight
 艅	la*la❗️余
 褕	lo*lo❗️俞
 褕	law*law❗️俞
-燏	wik*wik❗️鷸
+燏	wit*wit❗️鷸
 髃	ngo*ŋo❗️禺
-髃	ng'oq*ŋˤoʔ❗️偶
+髃	ng'roq*ŋˤroʔ❗️偶
 塬	ngwal*ŋwar‼️原
 箢	qon*ʔon❗️宛
 櫞	lon*lon❗️緣
@@ -2699,7 +2694,6 @@ sort: by_weight
 艹	tsh'uq*tsʰˤuʔ‼️艸
 衊	m'et*mˤet❗️蔑
 炁	khys*kʰəs❗️氣
-癥	tryng*trəŋ❗️徵
 嬅	w'rah*wˤrah‼️華
 蠮	q'et*ʔˤet❗️翳
 螉	q'ong*ʔˤoŋ❗️翁
@@ -2731,3 +2725,4 @@ sort: by_weight
 㵆	g'uq*gˤuʔ‼️皓
 肏	nyp*nəp‼️入
 肏	lh'rewk*l̥ˤrewk‼️戳
+〇	r'ing*rˤiŋ‼️零
