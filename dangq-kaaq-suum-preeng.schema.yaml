@@ -4,7 +4,7 @@
 schema:
   schema_id: dangq-kaaq-suum-preeng
   name: 上古三拼（臤徘斯）
-  version: "2026.06.24"
+  version: "2026.08.24"
   author:
     - "Kinboise <kinboise@guc1010.top>"
   description: | 
@@ -53,6 +53,7 @@ speller:
   algebra:
     - xform/(\*).+$// #將輸入碼範圍限定在音標前
     - xform/yps/ywh/
+    - derive/ia/a
     - derive/^([kqg])(['r]*)u/$1w$2u
     - derive/^kh(['r]*)u/khw$1u
     - xform/^qw/-Q/
@@ -99,7 +100,7 @@ speller:
     - xform/^m/M/
     - xform/^C\.r'/R'r/
     - xform/^C\.r/Rr/
-    - derive/u([qh]?)$/uw$1/
+    - derive/u([qhk]?)$/uw$1/
     - derive/i([qh]?)$/ij$1/
     - xform/ngq$/W/
     - xform/mq$/E/
