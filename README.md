@@ -12,6 +12,8 @@
 
 <img width="592" height="750" alt="image" src="https://github.com/user-attachments/assets/d326e954-7d39-4d15-a25b-8ed2bf82fa77" />
 
+2026.08.24 新增麻三支持：
+- ia 與 a 共享鍵位 `q`，不作區分
 2026.06.23 新增容錯及替代打法：
 - `wp`, `mp`, `xp` = ŋ̊, m̥, kʰw
 - ʔ, k, kʰ, g 配 u 韻腹時，亦可作相應的脣化聲母（kwu=ku）
@@ -20,7 +22,8 @@
 例：
 | 字 | 音 | 碼 |
 |:-|:-|:-|
-| 上 | daŋʔ > `d a ŋʔ` | `d q w` |
+| 上 | daŋh > `d a ŋh` | `d q x` |
+| 者 | tiaʔ > `t ia ʔ` | `t q q` |
 | 位 | wrəps > `w rə ps` | `u t m` |
 | 的 | tˤewk > `t ˤe wk` | `t d o` |
 | 漢 | n̥ˤar > `n̥ ˤa r` | `N a g` 或 `nb a g` |
