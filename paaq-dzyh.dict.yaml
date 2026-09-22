@@ -1,6 +1,6 @@
 ---
 name: paaq-dzyh
-version: "2026.08.24"
+version: "2026.09.22"
 sort: by_weight
 ...
 啊	q'aj*ʔˤaj‼️阿
@@ -8,7 +8,6 @@ sort: by_weight
 嗄	q'ras*ʔˤras❗️喝
 嗄	s'rajh*sˤrajh❗️沙
 哎	ng'as*ŋˤas❗️艾
-皚	ng'yj*ŋˤəj❗️磑
 矮	q'rajq*ʔˤrajʔ❗️
 癌	ng’rym*ŋˤrəm❗️碞
 砹	ng'as*ŋˤas❗️艾
@@ -732,8 +731,6 @@ sort: by_weight
 灝	g'uq*gˤuʔ❗️顥
 灝	k'umq*kˤumʔ❗️顥
 淏	g'uq*gˤuʔ‼️昊
-頜	g'umq*gˤumʔ❗️顄
-頜	k'yp*kˤəp❗️鴿
 嗬	h'aj*hˤaj‼️呵
 鞨	g'at*gˤat❗️曷
 鞨	mlat*mlat❗️
@@ -967,7 +964,6 @@ sort: by_weight
 孓	kongq*koŋʔ❗️
 噘	kwat*kwat‼️厥
 噱	grak*grak❗️臄
-钁	kwak*kwak❗️攫
 砄	kw'et*kwˤet‼️決
 觖	kw'et*kwˤet❗️決
 觖	khweh*kʰweh❗️
@@ -975,7 +971,6 @@ sort: by_weight
 㵐	khwat*kʰwat❗️闕
 捃	kunh*kunh❗️君
 珺	gunh*gunh‼️郡
-䐃	grunq*grunʔ❗️菌
 鮶	kun*kun❗️君
 卡	kh'rep*kʰˤrep‼️夾
 咖	k'raj*kˤraj❗️加
@@ -1025,9 +1020,6 @@ sort: by_weight
 啃	kh'ynq*kʰˤənʔ❗️齦墾
 裉	kh'ynh*kʰˤənh‼️艮
 吭	g'ang*gˤaŋ❗️航
-倥	kh'ong*kʰˤoŋ❗️空
-倥	kh'ongq*kʰˤoŋʔ❗️空
-倥	kh'ongh*kʰˤoŋh❗️空
 箜	kh'ong*kʰˤoŋ❗️空
 埪	kh'ong*kʰˤoŋ❗️空
 硿	kh'ong*kʰˤoŋ❗️空
@@ -1086,7 +1078,6 @@ sort: by_weight
 棶	r'y*rˤə‼️來
 纜	r'amq*rˤamʔ❗️覽
 欖	r'amq*rˤamʔ❗️覽
-籃	C.r'am*C.rˤam❗️藍
 懶	r'anq*rˤanʔ❗️嬾
 嵐	C.r'ym*C.rˤəm❗️
 罱	r'amq*rˤamʔ❗️
@@ -1367,7 +1358,6 @@ sort: by_weight
 醚	m'i*mˤi‼️迷
 洣	m'iq*mˤiʔ❗️米
 醾	maj*maj‼️糜
-棉	men*men❗️綿
 丏	m'enq*mˤenʔ❗️眄
 愐	menq*menʔ❗️緬
 鮸	mranq*mranʔ❗️免
@@ -1573,7 +1563,6 @@ sort: by_weight
 潑	ph'at*pʰˤat❗️發
 叵	ph'ajq*pʰˤajʔ❗️不可
 釙	ph'rok*pʰˤrok‼️朴
-珀	ph'rak*pʰˤrak❗️拍
 笸	ph'ajq*pʰˤajʔ‼️叵
 鉕	ph'ajq*pʰˤajʔ‼️叵
 桲	b'ut*bˤut❗️
@@ -1749,7 +1738,6 @@ sort: by_weight
 蟮	danq*danʔ‼️善
 釤	s'ram*sˤram‼️縿
 晱	lhamq*l̥amʔ‼️覢
-墡	danq*danʔ‼️善
 晌	nhangq*n̥aŋʔ❗️曏
 垧	nhangq*n̥aŋʔ‼️曏
 鞝	dangh*daŋh‼️尚
@@ -2482,7 +2470,6 @@ sort: by_weight
 症	tengh*teŋh❗️正
 睜	dzengq*dzeŋʔ❗️竫
 幀	t'rangh*tˤraŋh‼️
-錚	tsh'reng*tsʰˤreŋ❗️爭
 鯖	teng*teŋ❗️青
 鯖	tsh'eng*tsʰˤeŋ❗️青
 吱	kheh*kʰeh❗️蚑
@@ -2496,7 +2483,6 @@ sort: by_weight
 茽	drungh*druŋh‼️
 柊	tung*tuŋ❗️終
 舯	trung*truŋ‼️中
-咒	tuh*tuh❗️祝
 謅	tsh'ro*tsʰˤro❗️皺
 謅	tsh'ruq*tsʰˤruʔ❗️
 㥮	tsh'ruq*tsʰˤruʔ‼️
@@ -2528,7 +2514,6 @@ sort: by_weight
 鯔	tsry*tsrə❗️甾
 虸	tsyq*tsəʔ❗️子
 棕	ts'ong*tsˤoŋ❗️椶
-瘲	tsongh*tsoŋh❗️縱
 傯	ts'ongq*tsˤoŋʔ❗️總
 傯	ts'ongh*tsˤoŋh❗️總
 偬	ts'ongq*tsˤoŋʔ❗️總
